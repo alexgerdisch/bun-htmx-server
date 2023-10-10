@@ -1,4 +1,4 @@
-# htmxserver
+# A Simple Bun + HTMX server that serves reactive HTML to the client 
 
 To install dependencies:
 
